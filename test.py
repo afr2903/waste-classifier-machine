@@ -20,7 +20,7 @@ print(classes)
 cap = cv2.VideoCapture(0)
 
 
-# Loop through the camera frames
+# Loop through the camera john-deere-sdvframes
 
 while True:
     # Read the frame
